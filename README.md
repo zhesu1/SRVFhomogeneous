@@ -1,6 +1,6 @@
 # SRVFhomogeneous
 
-Tools for Geometric shape analysis of with values in homegeneous spaces based on the work by Martin Bauer, Eric Klassen and Zhe Su. 
+Tools for geometric shape analysis of with values in homegeneous spaces based on the work by Martin Bauer, Eric Klassen and Zhe Su. 
 
 ## What is it?
 
